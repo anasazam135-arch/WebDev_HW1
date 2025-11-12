@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.shots-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.shots-table th,
+.shots-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+}
+
+.shots-table th {
+    background-color: #f0f0f0;
+}
